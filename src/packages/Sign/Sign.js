@@ -28,10 +28,10 @@ function Sign_insertIcon() {
 function initPkg_Sign_Main(isAll) {
 		// 这里挂载每个子模块的函数入口
 		// 入口即为调用
-		initPkg_Sign_Yuba(); // 鱼吧签到
+		// initPkg_Sign_Yuba(); // 鱼吧签到
 		initPkg_Sign_Client();
 		// initPkg_Sign_Motorcade();
-		initPkg_Sign_Room(isAll);
+		// initPkg_Sign_Room(isAll);
 		// initPkg_Sign_Ad_666(); // 此处移动到鱼塘鱼丸领取中去以免观看冲突
 		// initPkg_Sign_Ad_Sign(); // 2022年9月1日23:41:59 失效
 		// initPkg_Sign_Aoligei();
@@ -50,18 +50,18 @@ function initPkg_Sign_Main(isAll) {
 		// initPkg_Sign_Yuba_Like(); // 2022年9月1日23:41:59 失效
         
 		// initPkg_Sign_Renlei();
-		initPkg_Sign_Act();
-		initPkg_Sign_ActqzsUserTask();
+		// initPkg_Sign_Act();
+		// initPkg_Sign_ActqzsUserTask();
 		// initPkg_Sign_Bowuyuan();
 		// initPkg_Sign_ZBXSL2();
 		// initPkg_Sign_COD();
 		// initPkg_Sign_Wangzhe();
-		initPkg_Sign_ReadPosts();
+		// initPkg_Sign_ReadPosts();
 		initPkg_Sign_Follow();
-		initPkg_Sign_FansTree();
-		initPkg_Sign_SuperFans();
-		initPkg_Sign_OPFOY();
-		initPkg_Sign_AnchorStar();
+		// initPkg_Sign_FansTree();
+		// initPkg_Sign_SuperFans();
+		// initPkg_Sign_OPFOY();
+		// initPkg_Sign_AnchorStar();
 }
 
 // function takeActPrize(name) {

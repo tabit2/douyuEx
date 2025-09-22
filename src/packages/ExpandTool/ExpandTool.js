@@ -7,13 +7,13 @@ function initPkg_ExpandTool() {
 
 function initPkg_ExpandTool_Module() {
 	// initPkg_ExpandTool_RedPacket_Motorcade();
-	initPkg_ExpandTool_Treasure();
-	initPkg_ExpandTool_Gold();
-	initPkg_ExpandTool_RedPacket_Room();
-	initPkg_ExpandTool_AutoFish();
-	initPkg_ExpandTool_ClearBag();
-    initPkg_ExpandTool_SendGift();
-    // initPkg_ExpandTool_BarrageSize();
+	// initPkg_ExpandTool_Treasure();
+	// initPkg_ExpandTool_Gold();
+	// initPkg_ExpandTool_RedPacket_Room();
+	// initPkg_ExpandTool_AutoFish();
+	// initPkg_ExpandTool_ClearBag();
+  // initPkg_ExpandTool_SendGift();
+	// initPkg_ExpandTool_BarrageSize();
 	initPkg_ExpandTool_TabSwitch();
 	initPkg_ExpandTool_P2P();
 	initPkg_ExpandTool_FullScreen();

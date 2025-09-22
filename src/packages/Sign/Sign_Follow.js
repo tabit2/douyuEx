@@ -1,6 +1,6 @@
 async function initPkg_Sign_Follow() {
   // 此处为了完成斗鱼等级任务
-  const room_id = "3186571";
+  const room_id = "100";
   await followRoom(room_id);
   await unfollowRoom(room_id);
 }

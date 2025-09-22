@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/qianjiachun/douyuEx#readme",
   "dependencies": {
-    "uglify-js": "^3.17.4"
+    "uglify-js": "^3.19.3"
   }
 }
