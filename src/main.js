@@ -81,7 +81,7 @@ function initPkg() {
   // initPkg_Night();
   initPkg_ExIcon();
   initPkg_ExPanel();
-  initPkg_RealAudience();
+  // initPkg_RealAudience();
   // initPkg_CopyRealLive();
   // initPkg_AudioLine();
   initPkg_RemoveAD();
